@@ -26,8 +26,3 @@ A simple Python-based command-line application to manage student results. This p
 4. Input student names and marks  
 5. Program calculates total and percentage  
 6. Results are saved in `results.txt`  
-
-## ▶️ How to Run
-
-```bash
-python student_result_manager.py
