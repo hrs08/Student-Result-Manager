@@ -16,7 +16,7 @@ A simple Python-based command-line application to manage student results. This p
 
 ## 🛠️ Tech Stack
 
-- Python 3  
+- Python
 
 ## 🚀 How It Works
 
